@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 el ivan la masca con cuatica
+=======
+
+
+El ivan qlo la masca
+asdaasda
+>>>>>>> 5f38e2bdfc80ff5c46fa0c79e1b4d0719d96da2d
